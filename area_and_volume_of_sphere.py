@@ -1,6 +1,10 @@
 #Q:2
 # Calculate the volume and area of a given sphere
 
+#Instructor: Dr. Sourav Samanta
+#author: Ranjan Bagri
+#license: MIT
+
 r=input('r=') #radius
 
 pi=3.141592653589793 #value of pi
