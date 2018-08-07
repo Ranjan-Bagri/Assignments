@@ -15,5 +15,4 @@ volume = (4/3)*pi*(r**3) #volume
 
 print "Value of area %s"%area
 
-
 print "Value of volume %s"%volume
