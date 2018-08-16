@@ -31,4 +31,4 @@ def pi(n): #defines a function with argument n.
 		
 	return (c/s)*4 #return the value of ratio between number of points inside circle and number of points inside square multiplied by area of square.
 
-print "Approximate value of pi is %s"%pi(500000) #call the function to execute its value while a certain numerical value is provided as an argument.
+print "Approximate value of pi is %s"%pi(5000000) #call the function to execute its value while a certain numerical value is provided as an argument.

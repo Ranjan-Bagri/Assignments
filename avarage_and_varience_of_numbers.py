@@ -17,7 +17,7 @@ print "Avarage of all numbers is %s\n"%avg
 
 q = sum([(i**2) for i in x]) #sum of squares of all numbers
 
-var = float(q)/l - avg**2 #varience following the equation
+var = float(q)/l - avg**2 #varience is following this equation
 
 # (sum(x^2)/n)-(avarage^2)
 print "Varience is %s"%var
