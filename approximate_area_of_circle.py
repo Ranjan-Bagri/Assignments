@@ -1,17 +1,19 @@
 #Q:6
-#Determine the area of a circle of given radius by Monte-Carlo simulation
+#Determine the area of a circle of given radius by Monte-Carlo simulation.
 
 #Instructor: Sk. Ismile
 #Author: Ranjan Bagri
 #license: MIT
 
-from random import * #built-in python module for random number generation 
+from random import *
+
+#built-in python module for random number generation
 
 r = float(input('radius=')) #radius of the given circle whose area to be determined
 
 def area(n): #defines a function with argument n.
 
-# n is the number of iteration. We"ll get closer to accuracy in final output for higher values of n.
+	# n is the number of iteration. We"ll get closer to accuracy in final output for higher values of n.
 	
 	s = 0.0
 	
