@@ -10,5 +10,5 @@
 If a set of \\(n\\) numbers is represented by \\((a_1,a_2,\cdots,a_n)\\), then the sum of \\(n\\) numbers will be
 \\[s= a_1+a_2+\cdots+a_n\\]
 \\[= \sum_{i=1}^{n} a_i\\]
-where \\(n\inN\\)
+where \\(n\in N\\)
 
