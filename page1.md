@@ -12,3 +12,24 @@ If a set of \\(n\\) numbers is represented by \\((a_1,a_2,\cdots,a_n)\\), then t
 \\[= \sum_{i=1}^{n} a_i\\]
 where \\(n\in N\\)
 
+### Implementation:
+
+<kbd>Input</kbd>
+
+```python
+list=[22,12,-3,4,-56,78]
+sum=sum(list)
+print(sum)
+
+n=len(list)
+avg=sum/n
+print(avg)
+```
+
+<kbd>Output</kbd>
+
+```python
+57
+9.5
+```
+
