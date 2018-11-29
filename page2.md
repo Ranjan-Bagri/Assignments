@@ -6,7 +6,7 @@
 
 ### Description:
 
-If the set of first \\(100\\) natural numbers is represented by \\((a_1,a_2,a_3,\cdots,a_100)\\), then the sum of all multipliers of \\(3\\) less than \\(100\\) will be
+If the set of first \\(100\\) natural numbers is represented by \\((a_1,a_2,a_3,\cdots,a_{100})\\), then the sum of all multipliers of \\(3\\) less than \\(100\\) will be
 \\[s=\sum_{i=0}^{99} a_{i+3} \\]
 
 ### Implementation:
