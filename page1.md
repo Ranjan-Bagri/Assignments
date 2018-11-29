@@ -12,6 +12,10 @@ If a set of \\(n\\) numbers is represented by \\((a_1,a_2,\cdots,a_n)\\), then t
 \\[= \sum_{i=1}^{n} a_i\\]
 where \\(n\in N\\)
 
+And the average of the all numbers of the list will be
+
+\\[a=\frac{s}{n}=\frac{\sum_{i=1}^{n} a_i}{n}\\]
+
 ### Implementation:
 
 <kbd>Input</kbd>
