@@ -14,7 +14,7 @@
 
 * [To check a given number Armstrong number or not](page3.md)
 
-* [To find n terms of Fibonacci sequence](page4.md)
+* [To find \\(n\\) terms of Fibonacci sequence](page4.md)
 
 
 
