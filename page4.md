@@ -7,10 +7,12 @@
 ## Description:
 
 Fibonacci sequence is an integer sequence characterized by the fact that every number after first two is the sum of two preceding ones.
-If the \\(n^(th)\\) terms of the sequence is denoted by \\(F_n\\), the sequence can be represented by a recurrence relation
-\\[F_n=F_(n-1)+F_(n-2)\\]
+If the \\(n^{th}\\) terms of the sequence is denoted by \\(F_n\\), the sequence can be represented by a recurrence relation
+\\[F_n=F_{n-1}+F_{n-2}\\]
 
 ### Implementation:
+
+<kbd>Input</kbd>
 
 ```python
 def fibonacci(n):
@@ -29,6 +31,8 @@ def fibonacci(n):
 		
 fibonacci(10)
 ```
+
+<kbd>Output</kbd>
 
 ```python
 0
