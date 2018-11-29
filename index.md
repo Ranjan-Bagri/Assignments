@@ -10,6 +10,14 @@
 
 * [To find the sum and average of a list of numbers](page1.md)
 
+* [To find the sum of all multiplliers of 3 less than 100](page2.md)
+
+* [To check a given number Armstrong number or not](page3.md)
+
+* [To find n terms of Fibonacci sequence](page4.md)
+
+
+
 
 
 
