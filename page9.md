@@ -8,7 +8,7 @@
 
 Let a regular polygon of side \\(n\\) be circumscribed by a circle of redius \\(r\\).
 
-<img style='margin-left:auto;margin-right:auto;' alt='estimation of pi' src='/img/inscribed_hexagon.jpg'/>
+[![estimation_of_pi](https://gribja.github.io/Assignments/img/inscribed_hexagon.jpg)](https://gribja.github.io/Assignments/img/inscribed_hexagon.jpg)
 
 for \\(\Delta EOF\\)    \\(\angle EOF=\theta\\)
 
