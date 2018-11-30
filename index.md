@@ -16,10 +16,21 @@
 
 * [To find \\(n\\) terms of Fibonacci sequence](page4.md)
 
+* [To find the area of any triangle from its given sides](page5.md)
+
+* [To sort the numbers of a given list in both ascending and descending order](page6.md)
+
+* [To find the area and circumference of a circle](page7.md)
+
+* [To find the surface area and volume of a sphere](page8.md)
+
+* [To estimate the value of pi](page9.md)
 
 
 
+## Note:
 
+All the sample programs are implemented in Python programming language.
 
 ## License:
 [MIT License](LICENSE.md)
@@ -27,4 +38,4 @@
 Copyright (c) 2018 Ranjan Bagri
 
 
-<div align='center'><a href='http://online-visit-counter.com/'><img src='http://online-visit-counter.com/cg.php?t=MTQzNDMzNw==' border='0' alt='online visit count'></a><br><a href='http://online-visit-counter.com/'>online visit count</a></div>
+<div align='center'><a href='http://online-visit-counter.com/'><img src='http://online-visit-counter.com/cg.php?t=MTQzNDMzNw==' border='0' alt='online visit count'></a><br><p>views</p></div>
