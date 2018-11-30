@@ -8,9 +8,10 @@
 
 Let a regular polygon of side \\(n\\) be circumscribed by a circle of redius \\(r\\).
 
-![estimation of pi](/.img/inscribed_hexagon.jpg)
+<img style='margin-left:auto;margin-right:auto;' alt='estimation of pi' src='/.img/inscribed_hexagon.jpg'/>
 
-for \\(\Delta EOF    \angle EOF=\theta\\)
+for \\(\Delta EOF\\)    \\(\angle EOF=\theta\\)
+
 And \\(\overline{OE}=\overline{OF}=r\\)
 
 Since the polygon is regular, the angle made by each side
@@ -24,6 +25,7 @@ Therefore using the law if cosine we get
 \\[c=r\sqrt{2\left(1-\frac{360^{\circ}}{n}\right)}\\]
 
 circumference = \\(nc\\)
+
 diameter = \\(2r\\)
 
 \\[\pi = \frac{nc}{2r}\\]
