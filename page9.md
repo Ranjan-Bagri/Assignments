@@ -19,7 +19,7 @@ Since the polygon is regular, the angle made by each side
 
 Let \\(\overline{OE}=a\\), \\(\overline{OF}=b\\), \\(\overline{EF}=c\\)
 
-Therefore using the law if cosine we get
+Therefore using the law of cosine we get
 \\[c^2=a^2+b^2-2ab\cos{\theta}\\]
 \\[c^2=2r^2-2r^2\cos{\frac{360^{\circ}}{n}}\\]
 \\[c=r\sqrt{2\left(1-\frac{360^{\circ}}{n}\right)}\\]
