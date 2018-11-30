@@ -6,7 +6,7 @@
 
 ### Desciption:
 
-If the lengths of three sides of any triangle is denoted by \\(a\\),\\(b\\) and \\(c\\) respectively, then the half-perimeter of the circle will be
+If the lengths of three sides of any triangle is denoted by \\(a\\),\\(b\\) and \\(c\\) respectively, then the half-perimeter of the triangle will be
 \\[S=\frac{(a+b+c)}{2}\\]
 Therefore, the area will be
 \\[A=\sqrt{s(s-a)(s-b)(s-c)}\\]

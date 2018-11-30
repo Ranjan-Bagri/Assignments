@@ -8,7 +8,7 @@
 
 If the radius of a sphere is denoted by \\(r\\) then its surface area is
 \\[A=4\pi r^2\\]
-And area is
+And volume is
 \\[V=\frac{4}{3}\pi r^3\\]
 
 ### Implementation:

@@ -6,7 +6,7 @@
 
 ### Desciption:
 
-Sorting is a process of re-arranging the elements of a list in crtain order.
+Sorting is a process of re-arranging the elements of a list in certain order.
 
 Let a list is given by \\([3,2.5,4.5,-1.2,5,0]\\)
 By sorting this list ascending order we get 
