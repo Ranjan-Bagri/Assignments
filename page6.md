@@ -10,7 +10,7 @@ Sorting is a process of re-arranging the elements of a list in crtain order.
 
 Let a list is given by \\([3,2.5,4.5,-1.2,5,0]\\)
 By sorting this list ascending order we get 
-\\[-1.2, 0, 2.5, 3, 4.5, 5]\\]
+\\[[-1.2, 0, 2.5, 3, 4.5, 5]\\]
 Similarly in descending order, we get
 \\[[5, 4.5, 3, 2.5, 0, -1.2]\\]
 

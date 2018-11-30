@@ -7,9 +7,9 @@
 ### Desciption:
 
 If the radius of a circle is denoted by \\(r\\) then its circumference is
-\\[S=2\pir\\]
+\\[S=2\pi r\\]
 And area is
-\\[A=\pir^2\\]
+\\[A=\pi r^2\\]
 
 ### Implementation:
 
