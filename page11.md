@@ -7,7 +7,7 @@
 ### Desciption:
 Binary search is a searching algorithm that finds the position of a target value within a sorted list.
 
-Let an A be a list of n elements with values \\(a_0,a_1,a_2,\cdots,a_{n-1}\\) sorted such that \\(a_0\leq a_1\leq a_2\leq \cdots \leq a_{n-1}\\) and the target value is \\(T\\).
+Let an \\(A\\) be a list of \\(n\\) elements with values \\(a_0,a_1,a_2,\cdots,a_{n-1}\\) sorted such that \\(a_0\leq a_1\leq a_2\leq \cdots \leq a_{n-1}\\) and the target value is \\(T\\).
 
 Binary search begins by comparing the middle element of the list with the target value. If the target value matches the middle element, its position in the list is returned. If the target value is less than the middle element, the search continues in the lower half of the list untill the posotion of \\(T\\) is returned.
 

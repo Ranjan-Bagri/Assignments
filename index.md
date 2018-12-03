@@ -37,5 +37,3 @@ All the sample programs are implemented in Python programming language.
 
 Copyright (c) 2018 Ranjan Bagri
 
-
-<div align='center'><a href='http://online-visit-counter.com/'><img src='http://online-visit-counter.com/cg.php?t=MTQzNDMzNw==' border='0' alt='online visit count'></a><br><p>views</p></div>
