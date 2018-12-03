@@ -2,7 +2,7 @@
 f=$1
 n=$2
 
-#usage: ./page [filename] [number]
+#usage: bash page.sh [filename] [number]
 
 touch ${f}${n}.md
 

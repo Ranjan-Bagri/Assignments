@@ -14,6 +14,8 @@ for example
 So \\(n!\\) can be written as a recurrence relation for \\(n\geq 1\\)
 \\[n!=n.(n-1)!\\]
 
+The value of \\(0!\\) is \\(1\\), according to the convention for an empty product.
+
 ### Implementation:
 
 <kbd>Input</kbd>
