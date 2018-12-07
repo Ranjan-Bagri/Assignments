@@ -26,11 +26,14 @@
 
 * [To estimate the value of pi](page9.md)
 
+* [To calculate sine value of an angle using sine series](page17.md)
+
+* [To calculate cosine value of an angle using cosine series](page18.md)
 
 
 ## Note:
 
-All the sample programs are implemented in Python programming language.
+All the sample programs are implemented in Python programming language (version 3.6.2).
 
 ## License:
 [MIT License](LICENSE.md)
