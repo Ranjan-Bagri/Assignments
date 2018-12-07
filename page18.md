@@ -6,6 +6,19 @@
 
 ### Desciption:
 
+Cosine series is a convergent infinte series produced by applying Maclaurin's series on \\(cos\)) function.
+
+\\[\therefore \cos (x) = x-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\cdots\\]
+\\[\forall x\in R\\]
+\\[= \sum_{i=0}^{\infty} \frac{(-1)^i}{(2i)!} x^{2i}\\]
+
+For first \\(n\\) terms of expansions
+
+\\[ \cos (x) = \sum_{i=0}^{n} \frac{(-1)^i}{(2i)!} x^{2i}\\]
+
+If \\(x\\) is expressed in degrees then the series would contain a factor of \\(\frac{\pi}{180}\\)
+
+\\[\therefore \cos (x_{deg}) = \sum_{i=0}^{n} \frac{(-1)^i}{(2i)!} \left(\frac{\pi x}{180}\right)^{2i}\\]
 
 ### Implementation:
 

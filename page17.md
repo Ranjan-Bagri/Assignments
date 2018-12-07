@@ -6,9 +6,10 @@
 
 ### Desciption:
 
-Sine series is an convergent infinte series produced by applying Maclaurin's series on \\(\sin\)) function.
+Sine series is a convergent infinte series produced by applying Maclaurin's series on \\(sin\)) function.
 
-\\[\therefore \sin (x) = x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\cdots  ,  \forall x\in R\\]
+\\[\therefore \sin (x) = x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\cdots\\]
+\\[\forall x\in R\\]
 \\[= \sum_{i=0}^{\infty} \frac{(-1)^i}{(2i+1)!} x^{2i+1}\\]
 
 For first \\(n\\) terms of expansions
@@ -17,7 +18,7 @@ For first \\(n\\) terms of expansions
 
 If \\(x\\) is expressed in degrees then the series would contain a factor of \\(\frac{\pi}{180}\\)
 
-\\[\therefore \sin{(x_deg)} = \sum_{i=0}^{\n} \frac{(-1)^i}{(2i+1)!} \left(\frac{\pi x}{180}\right)^{2i+1}\\]
+\\[\therefore \sin (x_{deg}) = \sum_{i=0}^{n} \frac{(-1)^i}{(2i+1)!} \left(\frac{\pi x}{180}\right)^{2i+1}\\]
 
 ### Implementation:
 
