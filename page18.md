@@ -6,7 +6,7 @@
 
 ### Desciption:
 
-Cosine series is a convergent infinte series produced by applying Maclaurin's series on \\(cos\)) function.
+Cosine series is a convergent infinte series produced by applying Maclaurin's series on \\(cos\\) function.
 
 \\[\therefore \cos (x) = x-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\cdots\\]
 \\[\forall x\in R\\]
