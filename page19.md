@@ -13,7 +13,7 @@ Let \\(A\\) be an \\(m\times n\\) order matrix, then dimension of \\(A^T\\) will
 Therefore the \\(i^{th}\\) row, \\(j^{th}\\) column element of \\(A^T\\) is the \\(j^{th}\\) row, \\(i^{th}\\) column element of \\(A\\).
 
 for example,
-\\[{\begin{matrix} 1 & 2 \\ 3 & 4 \\ 5 & 6 \end{matrix}}^{\operatorname {T}}=\begin{matrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{matrix}\\]
+\\[{\begin{bmatrix} 1 & 2 \\ 3 & 4 \\ 5 & 6 \end{bmatrix}}^{\operatorname {T}}=\begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix}\\]
 
 ### Implementation:
 
