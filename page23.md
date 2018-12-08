@@ -9,7 +9,7 @@
 Let \\(f(x)\\) be a function integrable from \\(x=a\\) to \\(x=b\\)
 \\[I(a,b) = \int^b_a f(x)dx\\]
 
-[![simpson rule](https://gribja.github.io/Assignments/img/simpson.jpg)](https://gribja.github.io/Assignments/img/simpson.jpg)
+[![simpson rule](https://gribja.github.io/Assignments/img/simpson.jpg)](https://gribja.github.io/Assignments/img/simpsons.jpeg)
 
 Geometrically, \\(f(x)\\) represents a curve
 
