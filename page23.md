@@ -23,11 +23,13 @@ If the curve \\(f(x)\\) fits a quadratic polynomial \\(Ax^2+Bx+C\\) and \\(-h,0,
 \\[C=f(0)\\]
 
 the areaunder the curve from \\(-h\\) to \\(h\\) is approximated by the area under the quadratic, so
-\\[\int^h_{-h} (Ax^2+Bx+C)dx = \frac{2}{3}Ah^3+2Ch = \frac{1}{3}h[f(-h)+4f(0)+f(h)]\\]
+\\[\int^h_{-h} (Ax^2+Bx+C)dx \\]
+\\[= \frac{2}{3}Ah^3+2Ch\\]
+\\[= \frac{1}{3}h[f(-h)+4f(0)+f(h)]\\]
 
 Since the rule approximate the area under two adjacent slices,
 
-\\[\therefore I(a,b) = \frac{1}{3}h \left[f(a)+f(b)+4\sum_{k=1,k odd}^{n-1} f(a+kh)+2\sum_{k=2,k even}^{n-2} f(a+kh)\right]\\]
+\\[\therefore I(a,b) = \frac{1}{3}h \left[f(a)+f(b)+4\sum_{k=1,k (odd)}^{n-1} f(a+kh)+2\sum_{k=2,k (even)}^{n-2} f(a+kh)\right]\\]
 
 ### Implementation:
 
