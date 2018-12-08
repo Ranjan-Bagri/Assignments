@@ -9,6 +9,8 @@
 Let \\(f(x)\\) be a function integrable from \\(x=a\\) to \\(x=b\\)
 \\[I(a,b) = \int^b_a f(x)dx\\]
 
+[![trapezoidal rule](https://gribja.github.io/Assignments/img/trapezoidal.jpg)](https://gribja.github.io/Assignments/img/trapezoidal.jpg)
+
 Geometrically, \\(f(x)\\) represents the curve in \\([a,b]\\)
 
 We can devide the area under the curve into \\(n\\) slices of trapezoids, each side having the width \\(h=\frac{b-a}{n}\\)

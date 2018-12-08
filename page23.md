@@ -9,6 +9,8 @@
 Let \\(f(x)\\) be a function integrable from \\(x=a\\) to \\(x=b\\)
 \\[I(a,b) = \int^b_a f(x)dx\\]
 
+[![simpson rule](https://gribja.github.io/Assignments/img/simpson.jpg)](https://gribja.github.io/Assignments/img/simpson.jpg)
+
 Geometrically, \\(f(x)\\) represents a curve
 
 We can devide the area under the curve into \\(n\\) slices, each side having the width \\(h=\frac{b-a}{n}\\)
