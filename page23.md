@@ -1,11 +1,33 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
 
-## simpson rule
+## To find the approximate value of definite integral using simpson rule
 
 
 ### Desciption:
 
+Let \\(f(x)\\) be a function integrable from \\(x=a\\) to \\(x=b\\)
+\\[I(a,b) = \int^b_a f(x)dx\\]
+
+Geometrically, \\(f(x)\\) represents a curve
+
+We can devide the area under the curve into \\(n\\) slices of trapezoids, each side having the width \\(h=\frac{b-a}{n}\\)
+
+If the curve \\(f(x)\\) fits a quadratic polynomial \\(Ax^2+Bx+C\\) and \\(-h,0,+h\\) are three points, then
+\\[f(-h) = Ah^2-Bh+C\\]
+\\[f(0) = C\\]
+\\[f(h) = Ah^2+Bh+C\\]
+
+\\[\Rightarrow A=\frac{1}{h^2}[\frac{1}{2}f(-h)+f(0)+\frac{1}{2}f(h)],\\]
+\\[B=\frac{1}{2h}[f(-h)-f(h)],\\]
+\\[C=f(0)\\]
+
+the areaunder the curve from \\(-h\\) to \\(h\\) is approximated by the area under the quadratic, so
+\\[\int^h_{-h} (Ax^2+Bx+C)dx = \frac{2}{3}Ah^3+2Ch = \frac{1}{3}h[f(-h)+4f(0)+f(h)]\\]
+
+Since the rule approximate the area under two adjacent slices,
+
+\\[\therefore I(a,b) = \frac{1}{3}h \left[f(a)+f(b)+4\sum_{k=1,k odd}^{n-1} f(a+kh)+2\sum_{k=2,k even}^{n-2} f(a+kh)\right]\\]
 
 ### Implementation:
 

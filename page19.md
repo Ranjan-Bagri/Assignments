@@ -8,12 +8,12 @@
 
 Transpose of a matrix is an operator that switches the row and column indices of the original matrix and produces another matrix denoted as \\(A^T\\) by flipping the original matrix over its diagonal.
 
-Let \\(A\\) be an \\(m\times n\\) order matrix, then dimension of \\(A^T\\) will be \\(m\times n\\).
+Let \\(A\\) be an \\(m\times n\\) order matrix, then dimension of \\(A^T\\) will be \\(n\times m\\).
 
 Therefore the \\(i^{th}\\) row, \\(j^{th}\\) column element of \\(A^T\\) is the \\(j^{th}\\) row, \\(i^{th}\\) column element of \\(A\\).
 
 for example,
-\\[\displaystyle {\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\operatorname {T} }={\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}}\\]
+\\[{\begin{bmatrix}1&2\\3&4\\5&6\end{bmatrix}}^{\operatorname {T} }=\begin{bmatrix}1&3&5\\2&4&6\end{bmatrix}\\]
 
 ### Implementation:
 

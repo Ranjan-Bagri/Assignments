@@ -6,13 +6,13 @@
 
 ### Desciption:
 
-If \\(y\\) is a function of \\(x\\), then the derivative of \\(y\\) is given by \\(y\prime = f\prime (x)\\)
+If \\(y\\) is a function of \\(x\\), then the derivative of \\(y\\) is given by \\(y' = f'(x)\\)
 
 \\[\therefore \frac{dy}{dx} = \frac{d}{dx} f(x) = \lim_{h\to 0} \frac{f(x+h)-f(x)}{h} \\]
 
-For a resonably small value of \\(h(e.g h=10^{-7})\\) the derivative of \\(y\\) at the point \\(x=a\\) will be
+For a resonably small value of \\(h(e.g:h=10^{-7})\\) the derivative of \\(y\\) at the point \\(x=a\\) will be
 
-\\[\left(\frac{dy}{dx}\right)_{x=a} = \lim_{h\to 0} \frac{f(a+h)-f(a)}{h}\\]
+\\[{\left(\frac{dy}{dx}\right)}_{x=a} = \lim_{h\to 0} \frac{f(a+h)-f(a)}{h}\\]
 \\[\approx \frac{f(a+h)-f(a)}{h}\\]
 \\[[\because h\approx 0]\\]
 ### Implementation:
