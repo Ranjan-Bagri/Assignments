@@ -9,7 +9,7 @@
 Let \\(f(x)\\) be a function integrable from \\(x=a\\) to \\(x=b\\)
 \\[I(a,b) = \int^b_a f(x)dx\\]
 
-[![trapezoidal rule](https://gribja.github.io/Assignments/img/trapezoidal.jpg)](https://gribja.github.io/Assignments/img/trapezoidal.png)
+[![trapezoidal rule](https://gribja.github.io/Assignments/img/trapezoidal.png)](https://gribja.github.io/Assignments/img/trapezoidal.png)
 
 Geometrically, \\(f(x)\\) represents the curve in \\([a,b]\\)
 
