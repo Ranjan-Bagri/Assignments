@@ -11,7 +11,7 @@ Let \\(f(x)\\) be a function integrable from \\(x=a\\) to \\(x=b\\)
 
 Geometrically, \\(f(x)\\) represents a curve
 
-We can devide the area under the curve into \\(n\\) slices of trapezoids, each side having the width \\(h=\frac{b-a}{n}\\)
+We can devide the area under the curve into \\(n\\) slices, each side having the width \\(h=\frac{b-a}{n}\\)
 
 If the curve \\(f(x)\\) fits a quadratic polynomial \\(Ax^2+Bx+C\\) and \\(-h,0,+h\\) are three points, then
 \\[f(-h) = Ah^2-Bh+C\\]

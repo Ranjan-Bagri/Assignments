@@ -40,6 +40,21 @@
 
 * [Program to determine approximate volume of a sphere](../page16.md)
 
+* [To calculate sine value of an angle using sine series](../page17.md)
+
+* [To calculate cosine value of an angle using cosine series](../page18.md)
+
+* [To find the transpose of a matrix](../page19.md)
+
+* [To find the derivative of a given single variable function on a given point](../page20.md)
+
+* [To check if a given number is prime or not](../page21.md)
+
+* [To find the approximate value of definite integral using trapezoidal rule](../page22.md)
+
+* [To find the approximate value of definite integral using simpson rule](../page23.md)
+
+
 
 ## Note:
 
