@@ -1,11 +1,16 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
 
-## prime number
+## To check if a given number is prime or not
 
 
 ### Desciption:
 
+Let \\(n\\) be a natural number.
+
+Now, \\(n\\) is a prime number if it is greater than one and if none of the numbers \\(2,3,\cdots,n-1\\) devides \\(n\\) evenly.
+
+Since every natural number has both \\(1\\) and itself as a divisor, \\(n\\) won't be prime if it has any other divisor than \\(1\\) and \\(n\\) itself.
 
 ### Implementation:
 
