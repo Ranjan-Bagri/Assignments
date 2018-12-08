@@ -58,10 +58,10 @@
 
 ## Note:
 
-All the sample programs are implemented in Python programming language.
+All the sample programs are implemented in Python programming language (version 3.6.6).
 
 ## License:
-[MIT License](LICENSE.md)
+[MIT License](../LICENSE.md)
 
 Copyright (c) 2018 Ranjan Bagri
 
