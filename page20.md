@@ -12,7 +12,7 @@ If \\(y\\) is a function of \\(x\\), then the derivative of \\(y\\) is given by 
 
 For a resonably small value of \\(h(e.g:h=10^{-7})\\) the derivative of \\(y\\) at the point \\(x=a\\) will be
 
-\\[\at{\frac{dy}{dx}}{x=a}= \lim_{h\to 0} \frac{f(a+h)-f(a)}{h}\\]
+\\[{\left(\frac{dy}{dx}\right)}_{x=a} = \lim_{h\to 0} \frac{f(a+h)-f(a)}{h}\\]
 \\[\approx \frac{f(a+h)-f(a)}{h}\\]
 \\[[\because h\approx 0]\\]
 
