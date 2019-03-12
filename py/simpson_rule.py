@@ -1,5 +1,7 @@
+from math import *
+
 def f(x):
-	return x**4-5*x**3+7
+	return log(x)
 
 def simp(func,a,b):
 	n = 1000000
@@ -12,4 +14,4 @@ def simp(func,a,b):
 	return (1/3)*h*(func(a)+func(b)+4*c+2*d)
 
 
-print(simp(f,5,10))
+print(simp(f,4,5.2))

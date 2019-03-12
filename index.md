@@ -24,16 +24,41 @@
 
 * [To find the surface area and volume of a sphere](page8.md)
 
-* [To estimate the value of pi](page9.md)
+* [To estimate the value of pi(\\(\pi\\)) (Archimedes' approximation)](page9.md)
+
+* [To find the factorial of a given number](page10.md)
+
+* [Binary search](page11.md)
+
+* [To check if a given number is palindrome or not](page12.md)
+
+* [To check if a string is Palindrome or not](page13.md)
+
+* [Program to determine approximate area of a circle](page14.md)
+
+* [To estimate the value of pi(\\(\pi\\)) (Monte-carlo method)](page15.md)
+
+* [Program to determine approximate volume of a sphere](page16.md)
 
 * [To calculate sine value of an angle using sine series](page17.md)
 
 * [To calculate cosine value of an angle using cosine series](page18.md)
 
+* [To find the transpose of a matrix](page19.md)
+
+* [To find the derivative of a given single variable function on a given point](page20.md)
+
+* [To check if a given number is prime or not](page21.md)
+
+* [To find the approximate value of definite integral using trapezoidal rule](page22.md)
+
+* [To find the approximate value of definite integral using simpson rule](page23.md)
+
+
 
 ## Note:
 
-All the sample programs are implemented in Python programming language (version 3.6.2).
+All the sample programs are implemented in Python programming language (version 3.6.6).
 
 ## License:
 [MIT License](LICENSE.md)

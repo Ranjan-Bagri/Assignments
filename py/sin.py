@@ -11,4 +11,4 @@ def sin(x,n):
 x=int(input('Enter the value in degree: '))
 n=int(input('Enter the number of terms: '))
 
-print(round(sin(x,n),3))
+print(round(sin(x,n),))
