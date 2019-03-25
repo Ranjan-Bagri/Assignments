@@ -52,3 +52,5 @@ print((estimate_pi(1,500000)))
 ```python
 3.141592770102689
 ```
+
+[Try it online!](https://tio.run/##TY7BDoIwEETP9Ct6LKQGhOjBxG8xDRRpQrdluxz8@rpoTZzb7sy83fiiJcCQ84zBS29okc7HgCTThqTHkDSayRlIQkx2ljaR45R9RKdWC09aNNQ3UR2hPcm7nNdgSBWvbtWBUf2pbxSzVGGp4dq1UH8kKl55Sxa53TdfkKhGngqlAQ6hpR2h4Mf212FHRHTAJ/9fO@tLd4j5Ob8B "Python 3 – Try It Online")

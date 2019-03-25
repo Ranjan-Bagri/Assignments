@@ -33,3 +33,5 @@ Enter the length of side b: 4
 Enter the length of side c: 5
 Area of triangle is 6.000000
 ```
+
+[Try it online!](https://tio.run/##jcxNDoMgEIbhPaeYmBgZTH9SddOERRc9yEBBSQwamC56elrrBdy8q@f71g9PS@xKIe3nhViGuL5ZNs/ILgFPDmYXR55g8ZDDywHdoUEU5iA3O7cHud151pJa01q83AQlR1pmJfOJcKv51yIqdT0PYk0hsqweP7bdcAoUx9lByFB3vqq3PZbSiV4MXw "Python 3 – Try It Online")

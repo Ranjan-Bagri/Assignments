@@ -48,3 +48,5 @@ Enter the value in degree: 60
 Enter the number of terms: 10
 0.5
 ```
+
+[Try it online!](https://tio.run/##bY/BboMwEETP@Cv2lrWbNtBIURXJx36IGxZYKawtY1fw9dTU6q232dGbWU3Y0uTluu88Bx8TzC5NSvU0wMMvuJ5F31VTJAvZVjWbXQ0ezFvgS/fRatUMPgIDC0QnI@FvoFl4FIuvnTaGy1kLXiwibsbgu2GtL7VncI/kI7tndbU5oqU2UspRoCaVWi1LQpaQE54@JVGENBF8u2em43lPYyS6w0lrJf@zkuevIv0AxZmXyqoQDzj6LD3@TT5ftd73W6u69gc "Python 3 – Try It Online")

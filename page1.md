@@ -35,4 +35,4 @@ print(avg)
 57
 9.5
 ```
-
+[Try it online!](https://tio.run/##K6gsycjPM/7/PyezuMQ22shIx9BIR9dYx0RH19RMx9wilqu4NNcWiDVACjS5Cooy80o0gHxNLq4825zUPKh4Ylk6SJV@HlQFkK/5/z8A "Python 3 – Try It Online")

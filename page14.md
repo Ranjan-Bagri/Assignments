@@ -36,3 +36,5 @@ print(area(500000))
 radius=6
 113.062752
 ```
+
+[Try it online!](https://tio.run/##VU9BDoIwEDzTV/TGbjmIGD0Y@hbTQBuaQMGlRHg9ttQY3cvs7ExmstPmu9Fd9t3QOHBSrg1gh2kkzwUjafpRebBuWjzkpFq7zDJHZKzVhivSChzeWTY/l0BkybLGUtMf26uzveZJqV0wZatMBYCCAt3@aXI@YqgEqAShEBUGwRoOsAZSbPFSS6CIsTf79BXy/E04dtJ@IcchyaekoPjpYGwi6zwcT1zLOIj7fnsD "Python 3 – Try It Online")

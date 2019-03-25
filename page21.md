@@ -40,3 +40,5 @@ print(prime(a))
 Enter a Natural number: 7
 7 is a Prime number
 ```
+
+[Try it online!](https://tio.run/##jdCxDoIwEAbguX2KW0jb6AA6mBDq5mp8hRoPvQAHKWXw6WsR2Rgc/z/f5XI3vMOr52OMD6xh8NShZlNK0dhcCqqBz0VKou49EBCDd/xEfdh/kZiF5oyszZcsmp0t5NI31dp6DJNnUNkINIKD27wHeOru6FXGiWA74gblPmzxVf@DpbPEQRMPU9DqwgF9UleXJl37cyUoY2S6PsHlB86YGE8f "Python 3 – Try It Online")

@@ -39,3 +39,5 @@ print((bin_search([-56, -3, 4, 9, 12, 22, 78],12)))
 ```python
 4
 ```
+
+[Try it online!](https://tio.run/##TY7LCoMwFETXuV9xlwlGWrVvzJeIFNtGEshDrimlX2@jqy4GhuFwmOmbTAzNsowUPfohGbR@ipRwdDESwEuP@LDhPuuBnoYPRDKJGzCn9sCCcjqsmwBGKgAD9jHWaXQtZYZ5tVk4dwWJXZ0pZkfMfOf7Nq1E9viiykW7WW8DKZ9lOr0poAOYyIbE@d@FrjyeJJaNxIPEq8SqlljnnC@9rGohxLL8AA "Python 3 – Try It Online")

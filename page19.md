@@ -44,3 +44,5 @@ print(tr(a))
 [[1, 2], [3, 4], [5, 6]]
 [[1, 3, 5], [2, 4, 6]]
 ```
+
+[Try it online!](https://tio.run/##bY7BDsIgEETP7FfssRgO1aoHE76E7IEoVUoDDWKMX4@sNvHiZTMz@zKZ5VVuKQ61Wm3MVu1IgUAzqP1XHNSRCJbsY@msBLi4EUtu8gQip@ddzy7yQ5zTvBrTU/Oh1fW0YQbHlNGjj5htvLqOUUkgOJ5@MaNcK/7hnItgPJmJtG2nybbAlUeOGGBd@Fkma30D "Python 3 – Try It Online")

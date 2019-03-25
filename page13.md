@@ -34,3 +34,5 @@ print(palin_str(input('Enter a string: ')))
 Enter a string: eye
 eye is a Palindrome string
 ```
+
+[Try it online!](https://tio.run/##dY4xC8IwEIXn5FcchdJmcBC3QEZ3dxEp9KqBeg25q9BfHy86OIjbe/e@97i0yX2hQykjTpCGOdKVJffsvDWRUmBr1HNQffZ@f7Em4zPUk9pd9XGCNxE00JLmsmaCpmWIDAOc6uiYlwdWLtKtaXXMGpwZf3la5H/HJtXSf9/U4yp9dyTBrLUP66FzzpWCG74A "Python 3 – Try It Online")
