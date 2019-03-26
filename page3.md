@@ -42,4 +42,9 @@ print(armstrong(155))
 155 is not an Armstrong Number
 ```
 
+
+[Download]
+
+or
+
 [Try it online!](https://tio.run/##dZBBCoMwEEXX9RSDICS2C4u4KWThBXqB0oWlow3qRCYR7OnTFNrURZ3VzOP/z2emp3sYKr2/YwsNj9axoU4s8pTAZ3pQEHBgETHaAIt4x6U1DBo0ATfUoSgOA5Lo5SptHbFXQepEf9FXmedlEkW6BREESq177BjdzARpZkFbaAjqb184z@MNOc2WqMbB4qaXjNvyJxO/O/1ecaxKKf/QSkrvXw "Python 3 – Try It Online")

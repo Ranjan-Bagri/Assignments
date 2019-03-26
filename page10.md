@@ -38,4 +38,9 @@ Enter a integer: 5
 Factorial of 5 is 120
 ```
 
+
+[Download]
+
+or
+
 [Try it online!](https://tio.run/##TY6xDsIwDET3fIWXKjF0KYilUkf4jwiSYok6kesMfH0IBSQ8WHfy6Z3zU@@Jj7XeQoTor5qE/MMxjgbaRJhg@KgkQEAM4nkO7tDzfviGtvNuos1I0CIM0Rguy0SsjjgXdfbMGgR8Q2iYg4xgEU2Wd8JefsWQInQr0Nq27VxD9H9PlQURaz29AA "Python 3 – Try It Online")

@@ -61,4 +61,9 @@ print(simp(f,5,10))
 13472.470833366839
 ```
 
+
+[Download]
+
+or
+
 [Try it online!](https://tio.run/##ZY7NCoMwEITP5in2mE0iGn8oFHwY/9Kk0FVSBfv0qdHSHrqXYXe/GWZ@LXaiMoRhNGD4hleW@HFZPcEmRJXWYpdSXhiLwNM9Zm5W6lWruogSNKDzY1hi94V3aYsZsaRvhma/mcmDA0fgW7qNXCtSRTQmPcgGYhRvpRMWT/T@Q4svOvyhn4ZcZyUKK/j5RHloh7ISvSzEgIyx2Tta@Flc1UrniCG8AQ "Python 3 – Try It Online")

@@ -49,4 +49,9 @@ print(trap(f,0,2))
 4.400000000010726
 ```
 
+
+[Download]
+
+or
+
 [Try it online!](https://tio.run/##PU7LDoMgEDyzX7FHFjCK7cnEj8FWCpfVICb266lo0rlMJvPIrN8cFn6U8p49ennQACLNeU@Mh1LPpleHtgDVzcmt0u/8Ms5MNcc4ou0ugAinkFPjqGUQWxW27UldBelIXzwRAQi/JIwYGZPjzyyt4bp2lvSId1xHFeh/JKgNANYUOcv7hOlMT1TKDw "Python 3 – Try It Online")
