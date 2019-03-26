@@ -6,7 +6,7 @@
 
 ### Desciption:
 
-Sine series is a convergent infinte series produced by applying Maclaurin's series on \\(sin\\) function.
+Sine series is a convergent infinte series produced by applying Maclaurin's series on \\(sin\\ function.
 
 \\[\therefore \sin (x) = x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\cdots\\]
 \\[\forall x\in R\\]
@@ -50,7 +50,7 @@ Enter the number of terms: 10
 ```
 
 
-[Download]
+[Download](py/sin.py)
 
 or
 

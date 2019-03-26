@@ -42,7 +42,7 @@ Enter a Natural number: 7
 ```
 
 
-[Download]
+[Download](py/prime_number.py)
 
 or
 

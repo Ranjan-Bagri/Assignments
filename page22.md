@@ -50,7 +50,7 @@ print(trap(f,0,2))
 ```
 
 
-[Download]
+[Download](py/trapezoidal_rule.py)
 
 or
 

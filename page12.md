@@ -37,7 +37,7 @@ Enter a number: 3443
 ```
 
 
-[Download]
+[Download](py/palindrome_number.py)
 
 or
 

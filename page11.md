@@ -41,7 +41,7 @@ print((bin_search([-56, -3, 4, 9, 12, 22, 78],12)))
 ```
 
 
-[Download]
+[Download](py/binary_search.py)
 
 or
 

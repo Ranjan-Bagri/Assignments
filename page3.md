@@ -43,7 +43,7 @@ print(armstrong(155))
 ```
 
 
-[Download]
+[Download](py/Armstrong.py)
 
 or
 

@@ -50,7 +50,7 @@ Enter the number of terms: 10
 ```
 
 
-[Download]
+[Download](py/cos.py)
 
 or
 
